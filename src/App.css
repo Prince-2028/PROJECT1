@@ -1,0 +1,28 @@
+ 
+ 
+ body{
+    background-color: aqua;
+    padding: 0;
+    margin: 0;
+}
+.count{
+    padding-top: 30px;
+    margin: 0px;
+    height: 80px;
+    text-align: center;
+
+    background-color: blueviolet;
+
+}
+.btn{
+    background-color: blue;
+    color: white;
+    height: 40px;
+    margin-left: 20px;
+    
+
+}
+.btn-1{
+    text-align: center;
+    margin-top: 200px;
+}
